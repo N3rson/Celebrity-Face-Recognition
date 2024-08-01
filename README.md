@@ -1,6 +1,6 @@
 # Celebrity Face Recognition System
 
-Welcome to the **Celebrity Face Recognition System** project! This system is designed to identify celebrity faces in images using a combination of traditional and deep learning techniques. The implementation leverages the speed of Haar Cascade for face detection and the accuracy of MobileNetV2 for face recognition.
+Welcome to the **Celebrity Face Recognition System** project! This system is designed to identify celebrity faces in images using a combination of traditional and deep learning techniques. The implementation leverages the speed of Haar Cascade for face detection and the accuracy of MobileNetV2 for face recognition. The project is fully created by Karol Fryc.
 
 ## How to Run
 
